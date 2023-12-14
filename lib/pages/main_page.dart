@@ -18,7 +18,7 @@ class _MainPageState extends State<MainPage> {
         date: DateTime.now(),
         category: Category.food),
     Expense(
-        name: "Udemy",
+        name: "Udemy Kursu",
         price: 200,
         date: DateTime.now(),
         category: Category.work),
